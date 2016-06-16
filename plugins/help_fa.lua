@@ -74,7 +74,7 @@ return [[
 لیست کلمات فیلتر شده
 
 ساخته شده توسط : تیم تلگرام آبی
-سودو ها : persianfa - mahdi95bk - mahadhack
+سودو ها : persianfa - mahdi95bk - mamadhack
 ]]
 end
 end
