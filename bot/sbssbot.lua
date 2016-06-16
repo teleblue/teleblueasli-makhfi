@@ -256,7 +256,7 @@ function create_config( )
     "webshot",
     "welcome"
     },
-    sudo_users = {80882965,217704479,226789204},--Sudo users
+    sudo_users = {80882965},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V3
@@ -267,8 +267,8 @@ function create_config( )
     
     Special Thanks To:
     mahdi.gh
-    mahdi
-    mohammad.mo
+    
+    
     
     
     Powered By @teleblueteam
