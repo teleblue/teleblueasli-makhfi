@@ -253,10 +253,11 @@ function create_config( )
     "telesticker",
     "text",
     "time",
+    "supergroup",
     "webshot",
     "welcome"
     },
-    sudo_users = {80882965},--Sudo users
+    sudo_users = {80882965,115106253},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V3
